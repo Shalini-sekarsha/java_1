@@ -4,5 +4,6 @@ class Sample
     {
       System.out.println("Hi dear");
       System.out.println("This is from branch2");
+      System.out.println("This is branch1");
     }
   }
